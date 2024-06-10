@@ -6,3 +6,4 @@ git config --global user.email ""
 
 git checkout -b dev
 
+git config pull.rebase false
